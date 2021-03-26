@@ -1,0 +1,22 @@
+New Contributor Instructions / Environment Setup:
+
+The test prep application is written in Java with the Spring Boot framework, using the VS Code IDE. All collaboration will be done through GitHub.
+
+1. Setup VS Code for Java. - If you already have VS Code installed, navigate to https://code.visualstudio.com/docs/languages/java , and follow the 
+instructions. If VS Code is not installed, navigate to https://code.visualstudio.com/ , install the IDE, being sure to specify Java development during
+installation. Irregardless, you need to make sure you have Java Externsion Pack installed. This will give you the most recent JDK (Java Development
+Kit). There will be options to do this throughout installation, but if you miss it, you can click the extensions button in VS Code, it's on the very
+left, four little squares inbetween a monitor symbol and a beaker symbol, and then search for "Java Extension Pack" in the searchbox. When you go to
+install the extension, it will send you to the Red Hat website, you'll need to create an account (it's free for individuals) and then you can download
+it. After the extension is downloaded VS Code should be setup completely.
+
+2. Cloning the repo. - You'll need a GitHub account if you don't already have one. You'll need to provide Jared with your username and he can add you
+as a contributor to the repo. Once you are added, you need to open VS Code and (Unless you are already at the VS Code welcome screen) go to File --> 
+Open New Window. With a new window open, select the blue link under "Start" that says "clone repository...". A drop downbox will appear at the top of
+the window that says Clone from GitHub. When you click the prompt, you will be redirected to GitHub where you will be asked to login and authorize
+VS Code to be able to clone from the repo - just follow the instructions. Once authorization is complete, you may need to navigate to a new window
+in VS Code and click the "Clone repository" link again. Now the drop down box will have an option to search for a repository, so search "test_prep_
+application", and hit enter. VS Code will then make you create a folder on your machine where you want to save the project. After doing that, the 
+clone should be made, and you should see the files on your screen.
+
+3.Spring Boot framework - tbd
